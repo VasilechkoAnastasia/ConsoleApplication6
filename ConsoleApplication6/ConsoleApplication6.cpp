@@ -16,4 +16,5 @@ int main()
 	cout << *ptr << endl; //5
 	ptr = ptr + 3; //ptr += 3 
 	cout << *ptr << endl; //20
+
 }
